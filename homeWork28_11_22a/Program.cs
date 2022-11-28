@@ -4,7 +4,7 @@
 
 // 2, 4 -> 16
 
-Console.WriteLine("Введите число - a :");
+Console.WriteLine("Введите число  - a :");
 int a = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 Console.WriteLine("Введите число - b :");
 int b = Math.Abs(Convert.ToInt32(Console.ReadLine()));
@@ -15,3 +15,4 @@ for ( i= 1; i <= b; i++)
     sum = sum*a;
 }
 Console.WriteLine(sum);
+
