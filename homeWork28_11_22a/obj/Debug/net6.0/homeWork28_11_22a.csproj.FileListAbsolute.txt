@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\bin\Debug\net6.0\homeWork28_11_22a.exe
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\bin\Debug\net6.0\homeWork28_11_22a.deps.json
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\bin\Debug\net6.0\homeWork28_11_22a.runtimeconfig.json
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\bin\Debug\net6.0\homeWork28_11_22a.dll
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\bin\Debug\net6.0\homeWork28_11_22a.pdb
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.AssemblyInfo.cs
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.dll
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\refint\homeWork28_11_22a.dll
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.pdb
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\homeWork28_11_22a.genruntimeconfig.cache
+C:\Users\user\Desktop\PAPKAnaRUSSKOM\HOMEWORK\homeWork28_11_22a\obj\Debug\net6.0\ref\homeWork28_11_22a.dll
